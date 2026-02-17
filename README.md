@@ -6,7 +6,7 @@ The website offers a wide range of products including gaming consoles, video gam
 
 Gaming is more than just a hobby, it's a lifestyle. That's why Gamerhood was created, a place where gamers can come together, share their passion, and find everything they need to take their gaming to the next level.
 
-Live link: https://gamerhood.herokuapp.com/
+Link (Currently in 2026 not live): https://gamerhood.herokuapp.com/
 
 ![Screenshot 2023-01-19 at 19 13 47](https://user-images.githubusercontent.com/39106404/213685271-13caee2c-4d1a-4224-b2a1-359be88c7049.png)
 
